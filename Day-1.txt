@@ -1,0 +1,8 @@
+Day 1
+  introduce selves 
+  set up the work environment
+  set up notes on github
+
+Relative vs absolute path
+  Relative: from current position
+  Absolute: longitude/lattitude; always the same
