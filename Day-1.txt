@@ -7,4 +7,4 @@ Relative vs absolute path
   Relative: from current position
   Absolute: longitude/lattitude; always the same
 
-Don't delete readme.md as annoying as it looks
+Don't delete readme.md
