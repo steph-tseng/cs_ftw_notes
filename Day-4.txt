@@ -1,4 +1,12 @@
 Flexbox
   justify-content: along the x axis
   align-content: along the y axis
-  
+
+  put div2 into div1 so that div2 can be made relative to div1 instead of the container as a whole
+  divide stuff into different columns and then into another container
+
+  can use recursive concept (like with lists) on boxes
+  make into followers/children
+    .followers
+    top: 50%;
+    left: 50%;
