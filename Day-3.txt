@@ -32,3 +32,13 @@ Use the following for universal application of border-box:
   box-sizing: inherit;
 }
 
+Position:
+  static - will not move, defined by coordinates
+  relative - position based on something else, take default static position as anchor
+  absolute - depends on what it's relative to, scope is important, 
+             it will always be trying to find an ancestor, if it can't find one, it'll just use the browser window
+  fixed - stays on the same part of the screen
+  sticky - moves with screen
+
+z index = z axis
+high z index value means it will be on top
