@@ -1,0 +1,17 @@
+Day 1
+  introduce selves 
+  set up the work environment
+  set up notes on github
+
+Relative vs absolute path
+  Relative: from current position
+  Absolute: longitude/lattitude; always the same
+
+Don't delete readme.md
+
+After making any changes:
+check git status to see if the changes have registered
+"git add ." to add any changes to the stage
+git commit -m "title" to save any changes
+push origin main to push it back to the repository
+
