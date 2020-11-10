@@ -1,0 +1,33 @@
+JavaScript Fundamentals:
+
+KEY TERMS
+Programming:
+  A set of instructions that tell a computer how to perform a text
+
+Data:
+  backbone of any program 
+
+Flow Control
+  determines how a computer will respond when given certain conditions and data
+  basically in a flowchart
+
+Variables 
+  to store data (aka state) during your program’s execution
+Declare: 
+  Creating a new variable (distinct from assignment)
+Operators: 
+  Symbols that are used to assign, compare, and perform operations
+Assignment: 
+  Assigning a value to a variable
+Data Type: 
+  A kind of data, defined by the values it can hold and the operations that can be done on it
+Statement: 
+  A single piece of code that accomplishes one task or action
+Expression: 
+  A statement that produces a value
+Conditionals: 
+  like if statements to make decisions
+Loops 
+  to repeat tasks until a condition stops being true
+Functions 
+  to organize your code into logical and reusable chunks
